@@ -25,11 +25,11 @@ default skin, but a bit more minimalistic.
 
 ## Copyright
 
-All authors whose materials I used are acknowledged in `ACKNOWLEDGEMENTS` file.
-If you would like to use this work or parts of it for any purpose, commercial or
-non-commercial, you can do so as you wish - however, please attribute back to me
-and the other authors (depending on which files you use - again, check the
-`ACKNOWLEDGEMENTS` file for an exhaustive list).
+All authors whose materials I used are acknowledged in the `ACKNOWLEDGEMENTS.md`
+file. If you would like to use this work or parts of it for any purpose,
+commercial or non-commercial, you can do so as you wish - however, please
+attribute back to me and the other authors (depending on which files you use -
+again, check the `ACKNOWLEDGEMENTS.md` file for an exhaustive list).
 
 There is no real, binding copyright on this work, because that would be silly
 for a skin pack of mostly (and mostly transparent) images. Just be nice, and
