@@ -1,8 +1,5 @@
-I only have osu! user names for the contributors, which may change; but hey, at
-least it's attribution.
-
-
 # Niko
+https://osu.ppy.sh/u/175141
  - approachcircle.png
  - hit0.png
  - hit50.png
@@ -13,16 +10,19 @@ least it's attribution.
  - sliderb.png
  - sliderfollowcircle.png
 
-# -Kamui-
+# -Ryosuke (-Kamui- skin)
+https://osu.ppy.sh/u/835808
  - followpoint-2.png
  - followpoint-3.png
  - followpoint-4.png
 
 # Synchrostar
- - cursor.png (adapted)
- - cursortrail.png (adapted)
+https://osu.ppy.sh/u/419705
+ - cursor.png (edited)
+ - cursortrail.png (edited)
 
 # WubWoofWolf
+https://osu.ppy.sh/u/39828
  - normal-hitclap.wav
  - normal-hitclap2.wav
  - normal-hitfinish.wav
@@ -48,9 +48,10 @@ least it's attribution.
 ### tl;dr:
  - all .wav files are from WubWoofWolf (used to be known as White Wolf)
  - most .png files which aren't transparent 1x1 pixels are from Niko
- - non-transparent followpoints belong to -Kamui-
- - cursor is Synchrostar's, made smaller with GIMP
+ - non-transparent followpoints from -Kamui- skin by -Ryosuke
+ - cursor from Synchrostar, resized to be smaller with GIMP
 
 
-All other files are by **The Muffin Man** (that's me). If you use any of these
-files, please attribute back to the correct author if you can.
+All other files are by **The Muffin Man** (https://osu.ppy.sh/u/2186171). If
+you use any of these files, please attribute back to the correct author if you
+can.
