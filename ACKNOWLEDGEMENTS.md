@@ -55,9 +55,3 @@ https://osu.ppy.sh/u/39828
 All other files are by **The Muffin Man** (https://osu.ppy.sh/u/2186171). If
 you use any of these files, please attribute back to the correct author if you
 can.
-
-I can't place an official copyright on this work, because I don't know whether
-I'm actually allowed to use some of the files. So please use common courtesy
-like I have, and just give credit to the authors of the files you use. I give
-permission for anyone to use any of my files for whatever purpose, including
-commercial.
