@@ -1,15 +1,17 @@
 Muffin
 ======
 
-Muffin is a skin for the game osu!, named after myself The Muffin Man. The
-purpose of this skin is **assisting gameplay** while maintaining the default
-look of the game. That is, it includes a less intrusive cursor, no combobursts,
-etc. Elements which don't require changing are left as is. It doesn't look
-*bad*, but I haven't tried to make it look any nicer - if default is fine,
-default is used.
+Muffin is a UI skin for osu!, a PC rhythm game. The purpose of this skin is
+**assisting gameplay** while maintaining the default look of the game i.e.
+simpler cursor, no combobursts, etc. Elements which don't *require* changing
+have been left as is, at least for now. It *doesn't look bad*, but it's not
+meant to be specifically aesthetically pleasing. If default works fine, default
+is used.
 
-In other words, it places in the 'pro' spectrum of skins for osu!. It's like the
-default skin, but a bit more minimalistic.
+In other words, it places in the `xX__PRO420n0sc0p3__Xx` spectrum of osu!
+skins. Or, it's like the default skin, but a bit more functional.
+
+Muffin is for osu! and osu!mania, them being the modes I play.
 
 
 ## Features
@@ -17,9 +19,9 @@ default skin, but a bit more minimalistic.
  - small, bright red cursor
  - no combobursts
  - unobtrusive hit markers (invisible 300s, smaller 100s and 50s)
- - 'pop' hitsounds
- - customised followpoints
- - chartreuse combos
+ - 'pop' hitsounds (clear but not loud)
+ - customised followpoints (obvious where to next)
+ - chartreuse combos (easy to see or something)
  - simple, non-animated sliders
 
 
